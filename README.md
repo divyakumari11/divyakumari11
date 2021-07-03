@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyakumari11
 - 👀 I’m interested in Web Dev Projects ..
-- 🌱 I’m currently learning Mobile App Development using Fluuter and Dart.
+- 🌱 I’m currently learning Mobile App Development using Flutter and Dart.
 - 💞️ I’m looking to collaborate on web dev projects and python related projects...
 - 📫 How to reach me ...
 
