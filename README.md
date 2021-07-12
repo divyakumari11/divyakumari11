@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev Projects ..
 - 🌱 I’m currently learning Mobile App Development using Flutter and Dart.
 - 💞️ I’m looking to collaborate on web dev projects and python related projects...
-- 📫 How to reach me ...
+- 📫 How to reach me ...divyakri858@gmail.com
 
 <!---
 divyakumari11/divyakumari11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
